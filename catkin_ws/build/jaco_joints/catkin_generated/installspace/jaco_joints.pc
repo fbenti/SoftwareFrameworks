@@ -1,0 +1,8 @@
+prefix=/home/filippo/catkin_ws/install
+
+Name: jaco_joints
+Description: Description of jaco_joints
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -ljaco_joints -ljaco_trajectory_action_server
+Requires: arm_components_name_manager joint_trajectory_execution

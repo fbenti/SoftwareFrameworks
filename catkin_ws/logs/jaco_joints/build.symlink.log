@@ -1,0 +1,5 @@
+Linked: (/home/filippo/catkin_ws/devel/.private/jaco_joints/share/jaco_joints/cmake/jaco_jointsConfig.cmake, /home/filippo/catkin_ws/devel/share/jaco_joints/cmake/jaco_jointsConfig.cmake)
+Linked: (/home/filippo/catkin_ws/devel/.private/jaco_joints/share/jaco_joints/cmake/jaco_jointsConfig-version.cmake, /home/filippo/catkin_ws/devel/share/jaco_joints/cmake/jaco_jointsConfig-version.cmake)
+Linked: (/home/filippo/catkin_ws/devel/.private/jaco_joints/lib/libjaco_joints.so, /home/filippo/catkin_ws/devel/lib/libjaco_joints.so)
+Linked: (/home/filippo/catkin_ws/devel/.private/jaco_joints/lib/libjaco_trajectory_action_server.so, /home/filippo/catkin_ws/devel/lib/libjaco_trajectory_action_server.so)
+Linked: (/home/filippo/catkin_ws/devel/.private/jaco_joints/lib/pkgconfig/jaco_joints.pc, /home/filippo/catkin_ws/devel/lib/pkgconfig/jaco_joints.pc)

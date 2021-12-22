@@ -1,0 +1,8 @@
+prefix=/home/filippo/catkin_ws/install
+
+Name: hello_ros_moveit_config
+Description: Description of hello_ros_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

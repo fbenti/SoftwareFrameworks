@@ -1,0 +1,9 @@
+# we choose which controller offered by ros_control we're going  to
+# use. For our purpose we need something that will accept joint positions
+# --> postion_controllers/JointTrajectoryController
+arm_controller:
+  type: "position_controllers/JointTrajectoryController"
+  joints:
+    - hip
+    - shoulder
+    - elbow

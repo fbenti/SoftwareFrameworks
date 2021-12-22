@@ -1,0 +1,1 @@
+/home/filippo/catkin_ws/devel/.private/object_msgs/share/gennodejs/ros/object_msgs/srv/_index.js

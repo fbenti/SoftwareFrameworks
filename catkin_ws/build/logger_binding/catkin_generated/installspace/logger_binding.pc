@@ -1,0 +1,8 @@
+prefix=/home/filippo/catkin_ws/install
+
+Name: logger_binding
+Description: Description of logger_binding
+Version: 1.0.0
+Cflags: -I${prefix}/include -I/home/filippo/catkin_ws/src/lecture_5_new/convenience-pkgs/baselib_binding/include
+Libs: -L${prefix}/lib -llogger_binding_c++11
+Requires: roscpp

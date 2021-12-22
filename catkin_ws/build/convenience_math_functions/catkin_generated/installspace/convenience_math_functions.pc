@@ -1,0 +1,8 @@
+prefix=/home/filippo/catkin_ws/install
+
+Name: convenience_math_functions
+Description: Description of convenience_math_functions
+Version: 1.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lconvenience_math_functions
+Requires: eigen_conversions

@@ -1,0 +1,1 @@
+/home/filippo/catkin_ws/devel/.private/gazebo_test_tools/share/roseus/ros/gazebo_test_tools/manifest.l

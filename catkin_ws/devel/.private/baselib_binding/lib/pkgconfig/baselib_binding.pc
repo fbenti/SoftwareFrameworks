@@ -1,0 +1,8 @@
+prefix=/home/filippo/catkin_ws/devel/.private/baselib_binding
+
+Name: baselib_binding
+Description: Description of baselib_binding
+Version: 1.0.0
+Cflags: -I/home/filippo/catkin_ws/src/lecture_5_new/convenience-pkgs/baselib_binding/include
+Libs: -L${prefix}/lib 
+Requires: 

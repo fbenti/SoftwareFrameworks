@@ -1,0 +1,2 @@
+set(object_msgs_MESSAGE_FILES "/home/filippo/catkin_ws/src/lecture_5_new/general-message-pkgs/object_msgs/msg/Object.msg;/home/filippo/catkin_ws/src/lecture_5_new/general-message-pkgs/object_msgs/msg/ObjectPose.msg")
+set(object_msgs_SERVICE_FILES "/home/filippo/catkin_ws/src/lecture_5_new/general-message-pkgs/object_msgs/srv/ObjectInfo.srv;/home/filippo/catkin_ws/src/lecture_5_new/general-message-pkgs/object_msgs/srv/RegisterObject.srv")

@@ -1,0 +1,5 @@
+lecture_5_new/jaco-arm-pkgs/jaco_arm/jaco_description
+/home/filippo/catkin_ws/devel/.private/jaco_description/cmake.lock /home/filippo/catkin_ws/devel/./cmake.lock
+/home/filippo/catkin_ws/devel/.private/jaco_description/share/jaco_description/cmake/jaco_descriptionConfig.cmake /home/filippo/catkin_ws/devel/share/jaco_description/cmake/jaco_descriptionConfig.cmake
+/home/filippo/catkin_ws/devel/.private/jaco_description/share/jaco_description/cmake/jaco_descriptionConfig-version.cmake /home/filippo/catkin_ws/devel/share/jaco_description/cmake/jaco_descriptionConfig-version.cmake
+/home/filippo/catkin_ws/devel/.private/jaco_description/lib/pkgconfig/jaco_description.pc /home/filippo/catkin_ws/devel/lib/pkgconfig/jaco_description.pc

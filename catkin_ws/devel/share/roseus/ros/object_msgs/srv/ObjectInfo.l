@@ -1,0 +1,1 @@
+/home/filippo/catkin_ws/devel/.private/object_msgs/share/roseus/ros/object_msgs/srv/ObjectInfo.l

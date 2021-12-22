@@ -1,0 +1,1 @@
+/home/filippo/catkin_ws/devel/.private/logger_binding/lib/pkgconfig/logger_binding.pc

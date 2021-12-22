@@ -1,0 +1,1 @@
+/home/filippo/catkin_ws/devel/.private/jaco_on_table/lib/pkgconfig/jaco_on_table.pc

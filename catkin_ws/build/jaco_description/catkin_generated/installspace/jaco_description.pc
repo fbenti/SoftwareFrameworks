@@ -1,0 +1,8 @@
+prefix=/home/filippo/catkin_ws/install
+
+Name: jaco_description
+Description: Description of jaco_description
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: xacro

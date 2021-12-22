@@ -1,0 +1,6 @@
+lecture_5_new/convenience-pkgs/convenience_ros_functions
+/home/filippo/catkin_ws/devel/.private/convenience_ros_functions/cmake.lock /home/filippo/catkin_ws/devel/./cmake.lock
+/home/filippo/catkin_ws/devel/.private/convenience_ros_functions/share/convenience_ros_functions/cmake/convenience_ros_functionsConfig-version.cmake /home/filippo/catkin_ws/devel/share/convenience_ros_functions/cmake/convenience_ros_functionsConfig-version.cmake
+/home/filippo/catkin_ws/devel/.private/convenience_ros_functions/share/convenience_ros_functions/cmake/convenience_ros_functionsConfig.cmake /home/filippo/catkin_ws/devel/share/convenience_ros_functions/cmake/convenience_ros_functionsConfig.cmake
+/home/filippo/catkin_ws/devel/.private/convenience_ros_functions/lib/libconvenience_ros_functions.so /home/filippo/catkin_ws/devel/lib/libconvenience_ros_functions.so
+/home/filippo/catkin_ws/devel/.private/convenience_ros_functions/lib/pkgconfig/convenience_ros_functions.pc /home/filippo/catkin_ws/devel/lib/pkgconfig/convenience_ros_functions.pc

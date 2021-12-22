@@ -1,0 +1,1 @@
+/home/filippo/catkin_ws/devel/.private/hello_ros_moveit_config/share/hello_ros_moveit_config/cmake/hello_ros_moveit_configConfig-version.cmake

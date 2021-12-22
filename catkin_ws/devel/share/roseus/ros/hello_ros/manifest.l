@@ -1,0 +1,1 @@
+/home/filippo/catkin_ws/devel/.private/hello_ros/share/roseus/ros/hello_ros/manifest.l

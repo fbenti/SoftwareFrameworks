@@ -1,0 +1,6 @@
+Symlinking /home/filippo/catkin_ws/devel/share/jaco_gazebo/cmake/jaco_gazeboConfig-version.cmake
+Symlinking /home/filippo/catkin_ws/devel/share/jaco_gazebo/cmake/jaco_gazeboConfig.cmake
+Symlinking /home/filippo/catkin_ws/devel/lib/pkgconfig/jaco_gazebo.pc
+Symlinking /home/filippo/catkin_ws/devel/lib/jaco_gazebo/test_joint_trajectory_client
+Symlinking /home/filippo/catkin_ws/devel/lib/jaco_gazebo/test_set_joint_state_publisher_pos
+Symlinking /home/filippo/catkin_ws/devel/lib/jaco_gazebo/test_set_joint_state_publisher_vel

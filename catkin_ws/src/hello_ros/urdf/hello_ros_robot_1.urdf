@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<robot name="hello_ros_robot">
+
+    <material name = "blue">
+        <color rgba = "0 0 0.8 1"/>
+    </material>
+    <material name = "white">
+        <color rgba = "1 1 1 1"/>
+    </material>
+    
+    <link name="world"/>
+    <link name="base_link">
+        <visual>
+        <geometry>
+            <cylinder length="0.2" radius="0.3"/>
+        </geometry>
+        <!-- <material name="blue"> -->
+            <!-- <color rgba="0 0 0.8 1"/> -->
+        <!-- </material> -->
+        <material name = "blue"/>
+        <origin rpy="0 0 0" xyz="0 0 0.025"/>
+        </visual>
+    </link>
+    <joint name="fixed" type="fixed">
+        <parent link="world"/>
+        <child link="base_link"/>
+    </joint>
+</robot>
+
+
